@@ -3,8 +3,6 @@ Product Roadmap + Waterfall + Agile
 
 
 
-# Product Roadmap
-
 
 ## Product Roadmap basics
 A roadmap is not a set document of features to be built. Rather it focuses on the following key points:
